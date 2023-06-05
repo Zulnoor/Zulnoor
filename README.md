@@ -13,7 +13,7 @@ I'm a Computer Science student at FAST UNIVERSITY, passionate about coding, prob
 
 
 - 🎓 I am currently studying Computer Science at FAST UNIVERSITY.I am on an exciting journey of exploration and learning within the vast realm of technology. With a passion for problem-     solving and a curious mindset, I immerse myself in the intricacies of algorithms, data structures, and software development. Through hands-on projects, rigorous coursework, and      collaborative experiences, I am honing my skills in programming languages and gaining a deeper understanding of the fundamental principles that drive the digital world
-- 🌱 I'm currently exploring and learning [languages or tools you are currently learning].
+- 🌱 I'm currently exploring and learning Blockchain Development.
 - 👯 I'm looking to collaborate on [projects realated to MERN stack
 - 🤔 I'm always looking for opportunities to grow and develop my skills.  
 - 💼 I'm actively seeking internship opportunities for my summer break(JUNE/JULY/AUG)
